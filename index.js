@@ -7,5 +7,3 @@ function reverseString(string) {
 }
 
 module.exports = stringLength, reverseString;
-
-console.log(reverseString("hello"));
